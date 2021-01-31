@@ -6,3 +6,6 @@
 
 
 -To contact me in a professional manner and for further news at <a href="https://www.linkedin.com/in/juan-christopher-166190157/"> Linkedin </a>
+
+[![Juan Christopher GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanChristopher001)](https://github.com/anuraghazra/github-readme-stats)
+
